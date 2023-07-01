@@ -15,7 +15,7 @@ from random import randint
 # robots = []
 # for i in range(number): 
 #     # causes the new random start position to be drawn immediately
-#     robots.append[[-1000, height]]
+#     robots.append([-1000, height])
 
 # clock = pygame.time.Clock()
 
